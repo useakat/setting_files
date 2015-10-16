@@ -10,6 +10,7 @@ export HISTCONTROL=ignoreboth
 export CLICOLOR=1
 export LSCOLORS=DxGxcxdxCxegedabagacad
 
+
 export STUDY=$HOME
 export PACKAGES=$HOME/packages
 export PROJECTS=$HOME/projects
